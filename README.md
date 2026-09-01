@@ -1,0 +1,1 @@
+The cause of the issue has been found and a workaround fix for it is in PRF (https://github.com/pauel3312/PauelsRandomFixes/pull/17, also in my RCs starting 0.34.2.1 RC1 at https://github.com/Appulcake/PauelsRandomFixes/releases), only needed on server
